@@ -4,5 +4,5 @@
 
 - Brooks and Quays Transatlantic Ltd,
 - Level One, Basecamp Liverpool,
-= 49 Jamaica Street,
+- 49 Jamaica Street,
 - Liverpool, L1 0AH
